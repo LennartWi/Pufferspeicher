@@ -1,7 +1,6 @@
 import streamlit as st
 import plotly.graph_objects as go
 import numpy as np
-pip install plotly numpy
 
 
 st.set_page_config(page_title="Batteriespeicher als Pufferspeicher", layout="wide")
